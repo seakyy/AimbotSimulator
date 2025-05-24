@@ -8,10 +8,15 @@ It was built as a **hands-on simulation tool** to showcase:
 - Real-time feedback with zero memory allocation beyond core stack use
 - Memory-efficient pointer control using C#'s `unsafe` mode
 
+---
 
-# Overview Diagram
-![diagram](https://github.com/user-attachments/assets/19ec6b4e-f0a0-4c53-a172-f5fe2cc9902a)
-
+## Controls
+```text
+F1     Toggle Aimbot  
+F2     Toggle Smooth Aim  
+F3     Toggle Triggerbot  
+Esc    Exit
+```
 
 ---
 
@@ -26,13 +31,8 @@ It was built as a **hands-on simulation tool** to showcase:
 
 ---
 
-## Controls
-```text
-F1     Toggle Aimbot  
-F2     Toggle Smooth Aim  
-F3     Toggle Triggerbot  
-Esc    Exit
-```
+# Overview Diagram
+![diagram](https://github.com/user-attachments/assets/19ec6b4e-f0a0-4c53-a172-f5fe2cc9902a)
 
 ---
 
