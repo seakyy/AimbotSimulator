@@ -31,6 +31,13 @@ Esc    Exit
 
 ---
 
+# Showcase
+
+![AimbotSimulator](https://github.com/user-attachments/assets/719572e0-58d7-43f9-8a1b-7428f03a227c)
+
+---
+
+
 # Overview Diagram
 ![diagram](https://github.com/user-attachments/assets/19ec6b4e-f0a0-4c53-a172-f5fe2cc9902a)
 
