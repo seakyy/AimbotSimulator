@@ -13,7 +13,7 @@ It was built as a **hands-on simulation tool** to showcase:
 ## Controls
 ```text
 F1     Toggle Aimbot  
-F2     Toggle Smooth Aim  
+F2     Toggle between Smooth Aim and Insta-Lock 
 F3     Toggle Triggerbot  
 Esc    Exit
 ```
