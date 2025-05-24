@@ -1,0 +1,6 @@
+﻿<Window x:Class="AimbotSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Aimbot OFF" Height="600" Width="800">
+    <Canvas Name="GameCanvas" Background="Black"/>
+</Window>
