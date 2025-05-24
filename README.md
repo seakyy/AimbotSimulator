@@ -1,2 +1,44 @@
 # AimbotSimulator
-Aimbot simulation built in C# using WPF and low-level `unsafe` pointer access.
+
+This project demonstrates UI logic, real-time event handling, and low-level pointer manipulation in a modern WPF desktop application.
+
+It was built as a **hands-on simulation tool** to showcase:
+- Dynamic user interfaces in WPF
+- Smooth user interaction
+- Real-time feedback with zero memory allocation beyond core stack use
+- Memory-efficient pointer control using C#'s `unsafe` mode
+
+---
+
+## Tech Highlights
+
+- **WPF (MV-style layout)** – Real-time interface with Canvas rendering and control overlay
+- **Unsafe C#** – Direct cursor manipulation using `SetCursorPos` with stack-allocated memory
+- **DispatcherTimer** – High-frequency event dispatching for frame-perfect updates
+- **Custom Control Panel** – Toggle UI features (aimbot, smoothing, rage mode) and tune behavior live
+- **Rage Mode** – Automated targeting with execution time benchmarking
+- **No external libraries** – 100% native .NET and Windows API
+
+---
+
+## Controls
+```text
+F1     Toggle Aimbot  
+F2     Toggle Smooth Aim  
+F3     Toggle Triggerbot  
+Esc    Exit
+```
+
+---
+
+## Requirements
+
+- .NET 6 or later  
+- Visual Studio (Enable "Allow unsafe code" in project settings)
+
+---
+
+## Disclaimer
+
+This simulator is for demonstration and learning purposes only. It does not interact with or modify any external applications or games.
+
