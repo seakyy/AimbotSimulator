@@ -52,5 +52,5 @@ Esc    Exit
 
 ## Disclaimer
 
-This simulator is for demonstration and learning purposes only. It does not interact with or modify any external applications or games.
+This simulator is ONLY for demonstration and learning purposes. It does not interact with or modify any external applications or games!
 
