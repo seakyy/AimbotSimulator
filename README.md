@@ -50,7 +50,7 @@ Esc    Exit
 
 ---
 
-## Disclaimer
+##  Important Disclaimer!
 
 This simulator is ONLY for demonstration and learning purposes. It does not interact with or modify any external applications or games!
 
